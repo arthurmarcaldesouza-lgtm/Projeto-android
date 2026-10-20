@@ -38,15 +38,14 @@ main img{
 
 
 #navegacao{
-    min-width: 20px;
    text-align: start;
-    position: absolute auto;
+    position: absolute;
    font-family: Arial, Helvetica, sans-serif;
    padding-top: 20px;
 }
 
 #navegacao a{
-    padding: 100% 10px;
+    padding: 10px 15px;
     color: white;
     text-decoration: none;
     font-weight: bold;
