@@ -39,7 +39,7 @@ main img{
 
 #navegacao{
     min-width: 20px;
-   text-align: left;
+   text-align: start;
     position: absolute;
    font-family: Arial, Helvetica, sans-serif;
    padding-top: 20px;
