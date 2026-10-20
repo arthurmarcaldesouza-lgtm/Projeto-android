@@ -45,7 +45,8 @@ main img{
 }
 
 #navegacao a{
-    padding: 0px 10px;
+   display: inline-block;
+    padding: 8px 10px;
     color: white;
     text-decoration: none;
     font-weight: bold;
